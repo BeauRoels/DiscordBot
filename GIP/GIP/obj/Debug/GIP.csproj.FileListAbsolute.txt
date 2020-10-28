@@ -1,0 +1,10 @@
+D:\Handelsschool\2017-2018\C#\GIP\GIP\bin\Debug\GIP.exe.config
+D:\Handelsschool\2017-2018\C#\GIP\GIP\bin\Debug\GIP.exe
+D:\Handelsschool\2017-2018\C#\GIP\GIP\bin\Debug\GIP.pdb
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.Form1.resources
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.Properties.Resources.resources
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.csproj.GenerateResource.Cache
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.csproj.CoreCompileInputs.cache
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.exe
+D:\Handelsschool\2017-2018\C#\GIP\GIP\obj\Debug\GIP.pdb
